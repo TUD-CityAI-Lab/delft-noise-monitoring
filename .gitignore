@@ -1,0 +1,8 @@
+data/
+*.duckdb*
+out/
+figures/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
