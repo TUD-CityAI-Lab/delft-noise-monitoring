@@ -4,7 +4,9 @@ This repository provides analyses for a noise monitoring study in Delft. Specifi
 
 ## Data
 
-Place separately supplied data bundle under `data/`. Data are not committed to Git. The future 4TU dataset link will be added when available. The data was originally collected using our low-cost source-aware sound sensors.
+The study data, excluding survey responses, are hosted separately: [10.4121/b4f6c7be-4537-4cc2-97fd-1a4c446dd900](https://doi.org/10.4121/b4f6c7be-4537-4cc2-97fd-1a4c446dd900).
+
+Extract `lake.zip`, `marts.zip`, `derived.zip` and `ref.zip` into `data/`, preserving their folder structure, and place `manifest.json` directly in `data/`. See the dataset README for extraction details. The data was originally collected using our low-cost source-aware sound sensors.
 
 Sensor coordinates in the data are rounded to five decimal places.
 
