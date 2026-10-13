@@ -2,6 +2,10 @@
 
 This repository provides analyses for a noise monitoring study in Delft. Specifically, Jupyter Notebooks analyze the following (acoustic) aspects: loudness, sound-source presence, intermittency, survey associations and sensitivity analyses.
 
+## License
+
+The analysis code and notebooks are licensed under the [MIT License](LICENSE). The study data are licensed separately; see their 4TU.ResearchData record.
+
 ## Data
 
 The study data, excluding survey responses, are hosted separately: [10.4121/b4f6c7be-4537-4cc2-97fd-1a4c446dd900](https://doi.org/10.4121/b4f6c7be-4537-4cc2-97fd-1a4c446dd900).
